@@ -9,12 +9,22 @@ During my time at the Henry bootcamp, I learned to work with various technologie
 - JAVASCRIPT
 - REACT JS
 - NODE JS
+- NEXT JS
 - EXPRESS JS
 - GIT
 - HTML
 - CSS
+- TYPESCRIPT
+- TAILWIND
   
 Additionally, I have experience with visual design tools such as Photoshop and Figma.
+
+🌐 Contact Me
+I'm always open to networking and collaboration. Feel free to reach out:
+
+- LinkedIn: Amanda Brousson
+- Email: amanda.brousson@gmail.com
+
 <!--
 **amandabrousson/amandabrousson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
