@@ -10,7 +10,7 @@ During my time at the Henry bootcamp, I learned to work with various technologie
 - REACT JS
 - NODE JS
 - NEXT JS
-- EXPRESS JS
+- EXPRESS 
 - GIT
 - HTML
 - CSS
